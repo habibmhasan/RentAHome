@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "942884719677",
+    "firebase_url": "https://homerent-1893a.firebaseio.com",
+    "project_id": "homerent-1893a",
+    "storage_bucket": "homerent-1893a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942884719677:android:5512cc65865e9fe2",
+        "android_client_info": {
+          "package_name": "com.example.rentahome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942884719677-fskrmqavkhlp9jf6ej9u9mvas3r5d42a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rentahome",
+            "certificate_hash": "d992a1d62d789a405220ed587ae6dd6469158fe1"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOrpXpMsRiWNn_bBhvUjnsWm6JxlXJD1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942884719677-96vlmdds28t0r7u0qitjs33p23jbc4dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
